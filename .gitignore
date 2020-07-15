@@ -12,3 +12,5 @@ resolution_coreferences_pronominales/data/phrases_tmp
 
 resolution_coreferences_pronominales/data/brouillon
 /venv/
+
+resolution_coreferences_pronominales/text_processing/details_pos.txt
